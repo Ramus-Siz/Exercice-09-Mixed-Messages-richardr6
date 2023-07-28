@@ -13,8 +13,6 @@ function mixedMessages(){
         return  message ;      
     }
 
-
+// calling mixedMessages fonction
     console.log(mixedMessages());
-    console.log(mixedMessages());
-    console.log(mixedMessages());
-    console.log(mixedMessages());
+   
